@@ -1,4 +1,4 @@
-# 100 tiny projects
+# 100 tiny projects - 2021
 
 ## Frontend
 1. https://changfenxia.github.io/mcs-projects/project-6/
@@ -9,5 +9,7 @@ A simple page about Wild Rift heroes, played with flexboxes
 
 3. https://changfenxia.github.io/mcs-projects/project-9/
 A super-simple adaptive grid (divs, flexboxes, media queries).
+
+... to be coninued
 
 ## Backend
