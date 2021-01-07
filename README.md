@@ -12,7 +12,7 @@
 
 4. **My favorite project so far! I enjoyed a lot building it.**
 [A parody Comedy club application form](https://changfenxia.github.io/mcs-projects/project-10/).  
-Keyframes, simple animation, event listeners, media queries, and an easter egg.
+Keyframes, menu and button animation, event listeners, media queries, and an easter egg.
 
 ... to be coninued
 
