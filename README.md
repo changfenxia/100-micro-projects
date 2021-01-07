@@ -11,6 +11,7 @@ A simple page about Wild Rift heroes, played with flexboxes
 A super-simple adaptive grid (divs, flexboxes, media queries).
 
 4. https://changfenxia.github.io/mcs-projects/project-10/
+**My favorite project so far! I enjoyed a lot building it.**
 A parody Comedy club application form. Keyframes, simple animation, event listeners, media queries, and an easter egg.
 
 ... to be coninued
